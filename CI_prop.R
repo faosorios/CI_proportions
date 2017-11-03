@@ -28,5 +28,7 @@ CI.prop <- function(p, n, level = 0.95, method = "asymp") {
            ci <- y + SE %o% qb
            ci <- (ci / (b + 1))^2
          })
+  ci <- cbind(p, SE, ci)
+  colnames(ci) <- c("prop", "SE", "lower", "upper")
   ci
 }

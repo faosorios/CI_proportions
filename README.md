@@ -1,6 +1,6 @@
 # Confidence intervals and a Wald test for multinomial proportions
 
-Supplementary material to **Assessment of movement difficulties in Chilean preschoolers** by Lisseth Barra and Felipe Osorio
+Supplementary material to **Assessment of movement difficulties in Chilean preschoolers** by Lisseth Barra, Felipe Osorio and Maria Alejandra Marin
 
 Code written by: Felipe Osorio
 
